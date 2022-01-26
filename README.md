@@ -7,4 +7,5 @@ I do not know much of the way you write code in VB.NET, this was cobbled togethe
 If you find anything wrong, please do tell me.
 
 feel free to use this in your projects however you want
-credit is apperciated but not at all nescessary
+
+credit is appreciated but not at all nescessary
